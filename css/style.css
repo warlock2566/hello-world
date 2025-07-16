@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: cornflowerblue;
+}
+
+.container {
+  background-color: white;  
+}
+
+form {
+  background-color: lightblue;
+  padding: 30px;
+  border-radius: 10px;
+}
